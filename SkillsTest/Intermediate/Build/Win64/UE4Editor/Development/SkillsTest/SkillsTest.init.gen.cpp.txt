@@ -1,0 +1,3 @@
+C:\Users\ma226386\Documents\Unreal Projects\SkillsTest\Intermediate\Build\Win64\UE4Editor\Development\SkillsTest\Definitions.SkillsTest.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

@@ -1,0 +1,2 @@
+C:\Users\ma226386\Documents\Unreal Projects\SkillsTest\Intermediate\Build\Win64\UE4Editor\Development\SkillsTest\Definitions.SkillsTest.h
+c:\users\ma226386\documents\unreal projects\skillstest\source\skillstest\SkillsTest.h
